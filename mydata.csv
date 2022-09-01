@@ -1,0 +1,601 @@
+,name,category_0,category_1,take_out,review_count,stars,city_id,state_id
+0,China Sea Chinese Restaurant,Restaurants,Chinese,True,11.0,2.5,1,1
+1,Discount Tire Center,Tires,Automotive,False,24.0,4.5,1,1
+2,Frankfurters,Restaurants,Hot Dogs,True,3.0,4.5,1,1
+3,Fred Dietz Floral,Shopping,Flowers & Gifts,False,6.0,4.0,1,1
+4,Kuhn's Market,Food,Grocery,False,8.0,3.5,1,1
+5,Lincoln Bakery,Food,Bakeries,True,,4.0,1,1
+6,Luigi's Pizzeria,Restaurants,Pizza,True,18.0,4.0,1,1
+7,Mane Attractions Unlimited,Hair Salons,Beauty & Spas,False,4.0,3.0,1,1
+8,R & B's Pizza Place,Restaurants,Pizza,True,17.0,4.0,1,1
+9,Rusty Nail,Restaurants,American (Traditional),True,32.0,,1,1
+10,Star Nails,Beauty & Spas,Nail Salons,False,7.0,2.5,1,1
+11,Vivo,Restaurants,Italian,False,3.0,5.0,1,1
+12,Emil's Lounge,Bars,American (New),True,26.0,4.5,2,1
+13,Grand View Golf Club,Active Life,Golf,False,3.0,5.0,2,1
+14,Advance Auto Parts,Automotive,Auto Parts & Supplies,False,3.0,3.5,3,1
+15,Alexion's Bar & Grill,Bars,American (Traditional),True,23.0,4.0,3,1
+16,Alteration World,Local Services,Sewing & Alterations,False,10.0,4.5,3,1
+17,Amerifit,Active Life,Boxing,False,,3.0,3,1
+18,Barb's Country Junction Cafe,Restaurants,Cafes,True,9.0,4.0,3,1
+19,Carnegie Free Library,Public Services & Government,Libraries,False,4.0,4.5,3,1
+20,Don Don Chinese Restaurant,Restaurants,Chinese,True,10.0,2.5,3,1
+21,Extended Stay America - Pittsburgh - Carnegie,Hotels & Travel,Event Planning & Services,False,11.0,,3,1
+22,Flynn's Tire & Auto Service,Auto Repair,Automotive,False,9.0,2.5,3,1
+23,Forsythe Miniature Golf & Snacks,Active Life,Mini Golf,False,4.0,4.0,3,1
+24,Gab & Eat,Breakfast & Brunch,Sandwiches,True,69.0,4.5,3,1
+25,Heidelberg B P,Automotive,Gas & Service Stations,False,4.0,3.0,3,1
+26,Kings Family Restaurant,Burgers,Breakfast & Brunch,True,10.0,3.5,3,1
+27,Knorr's Sunoco Service,Automotive,Gas & Service Stations,False,3.0,3.5,3,1
+28,Paddy's Pour House,Pubs,Irish,True,8.0,3.5,3,1
+29,Papa J's,Restaurants,Italian,True,81.0,3.5,3,1
+30,Porto Fino Pizzaria & Gyro,Restaurants,Pizza,False,4.0,2.5,3,1
+31,Quaker State Construction,Home Services,Roofing,False,3.0,2.5,3,1
+32,Rocky's Lounge,Bars,American (Traditional),True,10.0,4.0,3,1
+33,Rossi Tailoring & Cleaners,Local Services,Dry Cleaning & Laundry,False,3.0,3.0,3,1
+34,Shop N' Save,Food,Grocery,True,5.0,4.0,3,1
+35,"Weinberg Lisa, DMD",Health & Medical,Dentists,False,8.0,2.5,3,1
+36,Barnes & Noble Booksellers,Shopping,"Books, Mags, Music & Video",False,19.0,3.5,4,1
+37,Bath & Body Works,Shopping,Cosmetics & Beauty Supply,False,5.0,4.5,4,1
+38,Bed Bath & Beyond,Department Stores,Fashion,False,9.0,3.0,4,1
+39,Dave & Buster's,Arts & Entertainment,American (Traditional),True,106.0,2.5,4,1
+40,Dick's Sporting Goods,Sporting Goods,Fashion,False,,2.5,4,1
+41,DSW Designer Shoe Warehouse,Shopping,Fashion,False,5.0,4.0,4,1
+42,Duke's Upper Deck Cafe,Pubs,Bars,True,33.0,3.5,4,1
+43,Enterprise Rent-A-Car,Hotels & Travel,Car Rental,False,4.0,3.5,4,1
+44,Filene's Basement,Department Stores,Fashion,False,7.0,3.5,4,1
+45,First Class Limousine Service,Hotels & Travel,Airport Shuttles,False,12.0,4.5,4,1
+46,Giant Eagle,Food,Grocery,False,31.0,3.5,4,1
+47,Gordon Shoes,Shopping,Fashion,False,6.0,4.0,4,1
+48,Homestead Capri Pizza,Italian,Pizza,True,4.0,2.0,4,1
+49,Italian Village Pizza,Restaurants,Pizza,False,6.0,2.5,4,1
+50,Joe Dilorio's Auto Body Shop,Automotive,Body Shops,False,13.0,4.5,4,1
+51,LOFT,Women's Clothing,Fashion,False,3.0,4.5,4,1
+52,Lowe's Home Improvement,Home Services,Shopping,False,11.0,3.0,4,1
+53,Marshalls,Shopping,Discount Store,False,9.0,3.0,4,1
+54,Master Muffler & Brakes,Auto Repair,Automotive,False,3.0,3.5,4,1
+55,McDonald's,Burgers,Fast Food,True,12.0,2.0,4,1
+56,Mens Wearhouse,Men's Clothing,Fashion,False,8.0,2.0,4,1
+57,Mitchell's Fish Market,Seafood,American (Traditional),True,122.0,3.5,4,1
+58,Munhall Veterinary Hospital,Veterinarians,Pets,False,5.0,2.5,4,1
+59,Old Navy,Women's Clothing,Men's Clothing,False,7.0,3.5,4,1
+60,P.F. Chang's,Gluten-Free,Asian Fusion,True,95.0,3.0,4,1
+61,Pittsburgh Improv Comedy Club,Nightlife,Comedy Clubs,False,45.0,3.0,4,1
+62,Randy's Beer Barrel Pub,Pubs,Bars,False,3.0,2.5,4,1
+63,Rock Bottom,Food,American (Traditional),True,148.0,3.5,4,1
+64,Sandcastle Water Park,Active Life,Swimming Pools,False,19.0,3.0,4,1
+65,Sing Sing,Piano Bars,Nightlife,False,32.0,3.5,4,1
+66,Sleep Pittsburgh,Shopping,Mattresses,False,4.0,5.0,4,1
+67,South Hills Family Medicine,Doctors,Health & Medical,False,3.0,1.5,4,1
+68,Starbucks,Food,Coffee & Tea,True,25.0,3.5,4,1
+69,Target,Department Stores,Fashion,False,23.0,3.5,4,1
+70,TGI Fridays,Bars,American (Traditional),True,23.0,2.5,4,1
+71,TJ Maxx,Department Stores,Fashion,False,7.0,4.0,4,1
+72,Tunnel O Suds,Car Wash,Automotive,False,5.0,4.5,4,1
+73,Uno Pizzeria & Grill,American (Traditional),Pizza,True,55.0,3.0,4,1
+74,Victoria's Secret,Shopping,Lingerie,False,5.0,2.0,4,1
+75,Wendy's,Burgers,Fast Food,True,7.0,3.0,4,1
+76,Yankee Candle Co.,Gift Shops,Flowers & Gifts,False,4.0,4.5,4,1
+77,Applebee's,Bars,American (Traditional),True,9.0,3.5,5,1
+78,Broadway Brunch,Burgers,Breakfast & Brunch,True,21.0,4.5,5,1
+79,Club Erotica,Adult Entertainment,Nightlife,False,4.0,2.5,5,1
+80,Eat'n Park Restaurant,Restaurants,American (Traditional),True,5.0,4.0,5,1
+81,Giant Eagle,Food,Grocery,True,4.0,3.5,5,1
+82,Hunan Wok,Restaurants,Chinese,True,4.0,2.0,5,1
+83,Pasquarelli's Pizza House,Restaurants,Pizza,True,13.0,4.0,5,1
+84,Pat Catan's,Shopping,Art Supplies,False,3.0,4.0,5,1
+85,Pierogies Plus,Event Planning & Services,Caterers,False,41.0,4.5,5,1
+86,Ricci Italian Sausage,Food,Specialty Food,True,3.0,4.5,5,1
+87,Empire Music,Shopping,Musical Instruments & Teachers,False,6.0,3.5,6,1
+88,Jos. A. Bank,Men's Clothing,Fashion,False,4.0,1.5,6,1
+89,L J Marks Jewelers,Local Services,Jewelry Repair,False,3.0,4.0,6,1
+90,Panera Bread,Soup,Sandwiches,True,12.0,3.5,6,1
+91,Michaels,Shopping,Arts & Crafts,False,12.0,3.0,7,1
+92,Steak 'n Shake,Burgers,Fast Food,True,60.0,2.0,7,1
+93,The Dragon Chinese Cuisine,Restaurants,Chinese,True,7.0,3.0,7,1
+94,The Pizza Company,Restaurants,Pizza,True,12.0,4.0,7,1
+95,Aamco Transmissions,Auto Repair,Automotive,False,21.0,4.5,8,1
+96,Animal Rescue League Shelter & Wildlife Center,Animal Shelters,Veterinarians,False,43.0,4.0,8,1
+97,Aracri's Greentree Inn,Italian,American (New),True,15.0,3.5,8,1
+98,Atch-Mont Real Estate,Real Estate Services,Property Management,False,3.0,2.0,8,1
+99,Atria's Restaurant,American (New),Sandwiches,True,69.0,3.0,8,1
+100,Au Bon Pain Co,Food,Bakeries,False,7.0,3.0,8,1
+101,Bado's Pizza Grill and Ale House,Italian,Bars,True,93.0,3.5,8,1
+102,Bastone Auto Service,Auto Repair,Automotive,False,20.0,4.0,8,1
+103,Bellisario's Pizza Palace,Italian,Pizza,True,21.0,3.5,8,1
+104,Benedum Center for the Performing Arts,Opera & Ballet,Arts & Entertainment,False,56.0,4.5,8,1
+105,Beto's Pizza,Restaurants,Pizza,True,145.0,4.0,8,1
+106,Better-Maid Donut,Food,Bakeries,True,32.0,4.5,8,1
+107,Big Burrito,Event Planning & Services,Caterers,False,3.0,5.0,8,1
+108,Billy's Troy Hill Bistro,Restaurants,Cafes,True,5.0,3.0,8,1
+109,Boehmer Heating & Cooling,Home Services,Heating & Air Conditioning/HVAC,False,13.0,4.0,8,1
+110,BreadWorks,Food,Bakeries,True,17.0,4.5,8,1
+111,Broadway Auto Parts,Auto Repair,Automotive,False,4.0,5.0,8,1
+112,Brown Bag Delis,Restaurants,Delis,True,5.0,2.0,8,1
+113,Bruegger's Bagels,Food,Sandwiches,True,23.0,3.0,8,1
+114,Buffalo Blues,Restaurants,Bars,True,62.0,3.0,8,1
+115,Buon Giorno Cafe,Restaurants,Italian,True,6.0,3.5,8,1
+116,Cain's Saloon,Restaurants,American (New),True,106.0,3.5,8,1
+117,Calabria's Italian Restaurant,Restaurants,Pizza,False,3.0,2.5,8,1
+118,Candalina Brides,Shopping,Bridal,False,10.0,2.0,8,1
+119,Cappy's Cafe,Bars,American (Traditional),True,51.0,3.0,8,1
+120,Capristo Salon & Wellness Spa,Hair Salons,Beauty & Spas,False,59.0,3.5,8,1
+121,Cardamone's Salon,Hair Salons,Beauty & Spas,False,28.0,4.5,8,1
+122,Carnegie Library of Pittsburgh - East Liberty,Public Services & Government,Libraries,False,4.0,5.0,8,1
+123,Cat Clinic & Hospital,Veterinarians,Pets,False,19.0,4.0,8,1
+124,Children's Museum of Pittsburgh,Museums,Arts & Entertainment,False,51.0,5.0,8,1
+125,Chinese Acupuncture & Herbs Center LLC,Acupuncture,Traditional Chinese Medicine,False,3.0,5.0,8,1
+126,Christos Mediterranean Grille,Greek,Mediterranean,True,71.0,3.0,8,1
+127,Chubby's Pizza & Hoagies Northside,Restaurants,Pizza,True,14.0,2.5,8,1
+128,Cindy Esser's Floral Shop,Shopping,Flowers & Gifts,False,8.0,3.5,8,1
+129,Cool Beans Coffee,Food,Coffee & Tea,False,4.0,5.0,8,1
+130,Courtyard Pittsburgh Downtown,Hotels & Travel,Event Planning & Services,False,43.0,3.5,8,1
+131,Crepes Parisiennes,Breakfast & Brunch,Creperies,True,73.0,4.0,8,1
+132,Crouse Wayne Beer Distributor,Food,"Beer, Wine & Spirits",False,4.0,5.0,8,1
+133,CVS Pharmacy,Shopping,Drugstores,False,5.0,2.0,8,1
+134,Dairy Queen,Food,Ice Cream & Frozen Yogurt,True,10.0,3.5,8,1
+135,Dan Cercone Hairstyling,Barbers,Beauty & Spas,False,32.0,4.5,8,1
+136,Decio's Custom Tailoring & Formal Wear,Local Services,Sewing & Alterations,False,3.0,5.0,8,1
+137,Dependable Brakes & Exhaust,Auto Repair,Automotive,False,4.0,5.0,8,1
+138,Doc's Place,Bars,Pizza,True,21.0,3.0,8,1
+139,Don's Diner,Restaurants,Diners,True,6.0,5.0,8,1
+140,Dormont Public Library,Public Services & Government,Libraries,False,3.0,5.0,8,1
+141,Dunning's Grill,Restaurants,American (Traditional),True,21.0,3.0,8,1
+142,e.b. Pepper,Women's Clothing,Fashion,False,4.0,4.5,8,1
+143,East End Community Thrift,"Used, Vintage & Consignment",Fashion,False,4.0,4.0,8,1
+144,Eat'n Park Restaurant,Fast Food,American (Traditional),True,21.0,3.5,8,1
+145,Econowash Laundry,Local Services,Dry Cleaning & Laundry,False,6.0,2.0,8,1
+146,Eddie's Pizza Haus,Italian,Pizza,True,8.0,4.0,8,1
+147,Elite Coach Limousine,Hotels & Travel,Airport Shuttles,False,3.0,2.5,8,1
+148,Elks B P O,Arts & Entertainment,Social Clubs,False,3.0,5.0,8,1
+149,Emmert Dental Associates,Health & Medical,Periodontists,False,6.0,1.5,8,1
+150,Eons Fashion Antique,"Used, Vintage & Consignment",Fashion,False,27.0,4.5,8,1
+151,Exercise Warehouse Gym,Active Life,Gyms,False,4.0,4.0,8,1
+152,F. Tambellini Ristorante,Restaurants,Italian,True,16.0,2.0,8,1
+153,Fiori's Pizzaria,Italian,Pizza,True,189.0,4.5,8,1
+154,Fortunes Coffee Roastery,Food,Coffee & Tea,False,12.0,4.0,8,1
+155,Galleria,Shopping,Shopping Centers,False,21.0,2.5,8,1
+156,"Garrow Dennis D, DMD",Health & Medical,Dentists,False,3.0,5.0,8,1
+157,Gateway Eye Assocs,Optometrists,Health & Medical,False,3.0,3.0,8,1
+158,Geno Como Salon,Hair Salons,Beauty & Spas,False,7.0,3.0,8,1
+159,Giant Eagle,Food,Grocery,True,18.0,2.5,8,1
+160,Giant Eagle,Food,Grocery,False,10.0,3.0,8,1
+161,Giant Eagle,Food,Grocery,True,10.0,2.5,8,1
+162,Giant Eagle,Food,Grocery,False,21.0,1.5,8,1
+163,Girasole Restaurant,Restaurants,Italian,True,217.0,3.5,8,1
+164,Hair By Damian,Hair Salons,Day Spas,False,3.0,4.5,8,1
+165,Hairdressers II,Hair Salons,Beauty & Spas,False,6.0,5.0,8,1
+166,Harris Theater,Arts & Entertainment,Cinema,False,11.0,4.0,8,1
+167,Healing Touch Massage Therapy,Massage,Beauty & Spas,False,4.0,4.5,8,1
+168,Henne Jewelers,Shopping,Jewelry,False,17.0,4.5,8,1
+169,Holiday Inn Express & Suites Pittsburgh West - Greentree,Hotels & Travel,Event Planning & Services,False,17.0,4.0,8,1
+170,Hot Haute Hot,Home Services,Shopping,False,13.0,4.0,8,1
+171,Huddle,Bars,American (Traditional),True,17.0,4.0,8,1
+172,Il Pizzaiolo,Italian,Pizza,True,194.0,4.0,8,1
+173,Izzazu Salon,Skin Care,Hair Salons,False,28.0,3.5,8,1
+174,Jade 99 Asian Supermarket,Food,Grocery,True,3.0,3.5,8,1
+175,"James M Kyros, DMD",Health & Medical,Dentists,False,3.0,3.5,8,1
+176,Jiffy Lube,Oil Change Stations,Automotive,False,6.0,3.5,8,1
+177,Jo Jo's Restaurant,Restaurants,American (Traditional),True,18.0,3.5,8,1
+178,John Varney Tire & Auto Center,Tires,Automotive,False,3.0,5.0,8,1
+179,Kards Unlimited,Shopping,Arts & Crafts,False,39.0,4.5,8,1
+180,Katerbean,Food,Coffee & Tea,False,11.0,1.5,8,1
+181,Kenny's Nail Center,Beauty & Spas,Nail Salons,False,19.0,3.0,8,1
+182,Klavon's Ice Cream Parlor,Food,Ice Cream & Frozen Yogurt,True,103.0,4.0,8,1
+183,Knossos Gyros & Sis-Kabob,Polish,Greek,True,16.0,3.5,8,1
+184,La Feria,Peruvian,Latin American,True,75.0,4.0,8,1
+185,La Gondola Pizzeria & Restaurant,Restaurants,Italian,True,29.0,4.5,8,1
+186,La Prima Espresso Co,Food,Coffee & Tea,True,88.0,4.5,8,1
+187,Le Mardi Gras,Food,Bars,False,48.0,4.0,8,1
+188,Little Nipper's Pizza,Restaurants,Pizza,True,10.0,2.5,8,1
+189,Little Tokyo,Sushi Bars,Japanese,True,127.0,4.0,8,1
+190,Mad Mex - South Hills,Mexican,Tex-Mex,True,94.0,3.5,8,1
+191,Majestic Nails,Beauty & Spas,Nail Salons,False,4.0,3.0,8,1
+192,Market On Broadway IGA,Food,Grocery,False,6.0,3.0,8,1
+193,Martik Family Dental LLC,Pediatric Dentists,Health & Medical,False,4.0,5.0,8,1
+194,Max's Allegheny Tavern,German,Pubs,True,162.0,4.0,8,1
+195,McDonald's,Burgers,Fast Food,True,5.0,2.0,8,1
+196,Miller Ace Hardware,Shopping,Hardware Stores,False,5.0,4.5,8,1
+197,Minutello's Restaurant & Lounge,Italian,Pizza,True,8.0,3.0,8,1
+198,Monro Muffler Brake & Service,Tires,Automotive,False,9.0,2.0,8,1
+199,Moonlite Cafe,Restaurants,Italian,True,20.0,4.5,8,1
+200,Morton's The Steakhouse,Restaurants,American (Traditional),True,68.0,4.0,8,1
+201,Motheral,Home Services,Real Estate,False,4.0,3.5,8,1
+202,Mt Lebanon Chiropractic,Nutritionists,Health & Medical,False,3.0,5.0,8,1
+203,Mt Troy Inn,Bars,Nightlife,False,3.0,3.5,8,1
+204,Mt. Ararat Baptist Church,Churches,Religious Organizations,False,4.0,5.0,8,1
+205,Mullin's Diner,Restaurants,American (Traditional),True,11.0,3.5,8,1
+206,National Tire & Battery,Tires,Automotive,False,8.0,2.0,8,1
+207,New Sambok Oriental Foods,Food,Grocery,True,19.0,4.0,8,1
+208,Nicholas Coffee,Food,Coffee & Tea,True,66.0,4.0,8,1
+209,Nico's Recovery Room,Bars,American (Traditional),True,24.0,3.5,8,1
+210,Novak Berkowitz & Rosenberg MD,Doctors,Ophthalmologists,False,3.0,1.0,8,1
+211,Opening Night Caterers,Event Planning & Services,Caterers,False,4.0,5.0,8,1
+212,Original Fish Market,Restaurants,Seafood,True,76.0,2.5,8,1
+213,Paddy Cake Bakery,Food,Bakeries,True,28.0,3.5,8,1
+214,Page Dairy Mart,Food,Ice Cream & Frozen Yogurt,True,95.0,4.5,8,1
+215,Papa J's Centro,Restaurants,Italian,True,18.0,3.0,8,1
+216,Party Cake Shop,Food,Bakeries,True,22.0,4.0,8,1
+217,Payless Shoe Source,Shopping,Fashion,False,3.0,3.5,8,1
+218,Penn-Garrison,Home Services,Real Estate,False,3.0,2.5,8,1
+219,Pennsylvania Macaroni Co,Food,Cheese Shops,True,151.0,4.5,8,1
+220,Petraglia James F DMD,Health & Medical,Dentists,False,5.0,4.0,8,1
+221,Pfennig's Cleaners Inc,Local Services,Dry Cleaning & Laundry,False,4.0,4.0,8,1
+222,Pino's Contemporary Italian Restaurant & Wine Bar,Restaurants,Tapas/Small Plates,True,65.0,3.0,8,1
+223,Pirollo Paul Barber Shop,Barbers,Beauty & Spas,False,3.0,4.5,8,1
+224,Pittsburgh City Paper,Print Media,Mass Media,False,3.0,3.0,8,1
+225,Pittsburgh CLO,Local Services,Arts & Entertainment,False,20.0,4.5,8,1
+226,Pittsburgh Eye Associates,Optometrists,Ophthalmologists,False,3.0,3.5,8,1
+227,Pittsburgh Opera,Arts & Entertainment,Performing Arts,False,6.0,4.5,8,1
+228,Pittsburgh Toy Lending Library,Public Services & Government,Libraries,False,4.0,5.0,8,1
+229,Pizza Hut,Italian,Pizza,True,6.0,1.5,8,1
+230,Prantl's Bakery,Food,Bakeries,True,142.0,4.0,8,1
+231,Prestogeorge Coffee & Tea,Food,Specialty Food,True,58.0,4.5,8,1
+232,Primanti Bros.,Restaurants,Bars,True,463.0,3.5,8,1
+233,Pub In the Park,Pubs,Bars,False,6.0,4.5,8,1
+234,Quest Diagnostics,Diagnostic Services,Health & Medical,False,3.0,5.0,8,1
+235,Quiet Storm Vegetarian & Vegan Cafe,Food,Coffee & Tea,True,144.0,4.0,8,1
+236,Randall S W Toyes and Giftes,Shopping,Toy Stores,False,3.0,4.5,8,1
+237,Rangos Omnimax Theater,Arts & Entertainment,Cinema,False,6.0,4.5,8,1
+238,Remember When,Food,Ice Cream & Frozen Yogurt,True,11.0,3.5,8,1
+239,Renaissance Pittsburgh Hotel,Hotels & Travel,Event Planning & Services,False,112.0,4.0,8,1
+240,Ritters Diner,Breakfast & Brunch,American (Traditional),True,146.0,3.5,8,1
+241,Roland's Seafood Grill,Restaurants,Seafood,True,219.0,2.5,8,1
+242,Rollier's Hardware,Shopping,Hardware Stores,False,20.0,4.0,8,1
+243,Roxanne's Dried Flowers,Gift Shops,Flowers & Gifts,False,17.0,4.5,8,1
+244,Rudy Martino Original House of Submarines,Sandwiches,Diners,True,5.0,5.0,8,1
+245,Ruffing Automotive,Auto Repair,Automotive,False,3.0,3.5,8,1
+246,Salon DeStefino,Hair Salons,Hair Removal,False,9.0,3.0,8,1
+247,Salon Vivace,Hair Salons,Day Spas,False,8.0,4.0,8,1
+248,Salonika Gyros,Greek,Mediterranean,True,44.0,3.5,8,1
+249,Sapporo Japanese Steakhouse,Seafood,Steakhouses,True,10.0,4.0,8,1
+250,Scoops On Beverly,Food,Ice Cream & Frozen Yogurt,True,18.0,4.0,8,1
+251,Sergio's Style,Hair Salons,Eyelash Service,False,34.0,4.5,8,1
+252,Shadyside Valet,Local Services,Dry Cleaning & Laundry,False,11.0,2.5,8,1
+253,Sichuan House Chinese Restaurant,Restaurants,Chinese,True,3.0,3.5,8,1
+254,Smithfield Cafe,American (Traditional),Cafes,True,17.0,3.5,8,1
+255,Smithfield News,Newspapers & Magazines,"Books, Mags, Music & Video",False,4.0,4.0,8,1
+256,Society For Contemporary Craft,Arts & Entertainment,Art Galleries,False,6.0,4.0,8,1
+257,Soho,Restaurants,American (New),True,94.0,3.0,8,1
+258,Sound Cat Records,Music & DVDs,"Books, Mags, Music & Video",False,16.0,5.0,8,1
+259,Spaghetti Warehouse,Restaurants,Italian,True,97.0,2.5,8,1
+260,"Staab & Sons, Inc.",Home Services,Plumbing,False,4.0,2.0,8,1
+261,Starbucks,Food,Coffee & Tea,False,9.0,4.0,8,1
+262,Supercuts,Hair Salons,Beauty & Spas,False,5.0,3.0,8,1
+263,Taco Bell,Fast Food,Mexican,True,6.0,3.5,8,1
+264,Tazza D'oro Cafe & Espresso Bar,Food,Coffee & Tea,True,117.0,4.5,8,1
+265,Tepe Chiropractic Center,Health & Medical,Massage,False,13.0,5.0,8,1
+266,The Bloomfield Sandwich Shop,Breakfast & Brunch,Sandwiches,True,41.0,4.0,8,1
+267,The Collection,Local Services,Jewelry Repair,False,8.0,4.5,8,1
+268,The Dor-Stop Restaurant,Breakfast & Brunch,Diners,True,275.0,4.5,8,1
+269,The Exchange,Music & DVDs,"Books, Mags, Music & Video",False,3.0,3.5,8,1
+270,The Home Depot,Shopping,Hardware Stores,False,33.0,3.0,8,1
+271,The Isaly Company,Food,Ice Cream & Frozen Yogurt,True,4.0,3.5,8,1
+272,The Korner Pub,Pubs,Bars,False,8.0,4.5,8,1
+273,The Mansion at Maple Heights,Hotels & Travel,Bed & Breakfast,False,15.0,3.5,8,1
+274,The Park House,Pubs,Bars,True,61.0,4.0,8,1
+275,The Pittsburgh Cultural Trust,Arts & Entertainment,Performing Arts,False,3.0,3.5,8,1
+276,Time Bomb Spot,Women's Clothing,Men's Clothing,False,5.0,4.5,8,1
+277,Toadflax Inc,Shopping,Flowers & Gifts,False,12.0,4.0,8,1
+278,Tom Fridays Market,Food,Specialty Food,True,9.0,5.0,8,1
+279,Tramp's Restaurant,Bars,American (Traditional),True,4.0,3.5,8,1
+280,Twisters Soft Serve Ice Cream,Food,Ice Cream & Frozen Yogurt,True,16.0,3.5,8,1
+281,UPMC Dermatology - Shadyside,Dermatologists,Doctors,False,4.0,3.0,8,1
+282,Uptown Coffee,Food,Bakeries,True,44.0,4.0,8,1
+283,Walter's Automotive,Auto Repair,Automotive,False,99.0,5.0,8,1
+284,Washington's Landing Marina,Active Life,Boating,False,3.0,3.0,8,1
+285,West Liberty Cycles,Sporting Goods,Bikes,False,8.0,4.5,8,1
+286,Wiseguys Pizza,Restaurants,Pizza,True,12.0,3.0,8,1
+287,X Shadyside,Active Life,Yoga,False,31.0,3.5,8,1
+288,Bar Louie,Bars,American (New),True,92.0,2.5,9,1
+289,Panera Bread,Soup,Sandwiches,True,25.0,3.0,9,1
+290,RDN Plumbing,Plumbing,Water Heater Installation/Repair,False,7.0,4.5,9,1
+291,Bellisario Pizza Shop,Restaurants,Pizza,True,6.0,3.5,10,1
+292,Big Bang Bicycles,Sporting Goods,Bikes,False,18.0,4.5,10,1
+293,Cat Around Town,Pet Groomers,Pet Services,False,3.0,5.0,10,1
+294,Giant Eagle,Food,Grocery,False,4.0,2.5,10,1
+295,Hunan Wok Chinese Restaurant,Restaurants,Chinese,True,3.0,5.0,10,1
+296,Latina Pizza,Restaurants,Pizza,True,6.0,4.5,10,1
+297,McDonald's,Burgers,Fast Food,False,5.0,1.5,10,1
+298,Shop 'n Save,Food,Grocery,False,3.0,3.0,10,1
+299,Voyager Jet Center,Hotels & Travel,Airports,False,3.0,4.5,10,1
+300,Buffalo Wild Wings,Bars,American (Traditional),True,171.0,3.0,11,2
+301,Denny's,Breakfast & Brunch,American (Traditional),True,77.0,2.5,11,2
+302,Mimi's Cafe,Breakfast & Brunch,American (Traditional),True,160.0,3.5,11,2
+303,Pei Wei,Gluten-Free,Asian Fusion,True,106.0,3.5,11,2
+304,Get N Go,Car Wash,Automotive,False,19.0,3.5,11,2
+305,Green Valley Car Wash,Car Wash,Automotive,False,115.0,2.0,11,2
+306,Henderson Chevrolet,Auto Repair,Automotive,False,111.0,3.0,11,2
+307,Henderson Nissan,Auto Repair,Automotive,False,98.0,2.5,11,2
+308,Midas,Auto Repair,Automotive,False,14.0,4.5,11,2
+309,Terrible Herbst,Food,Automotive,False,16.0,3.0,11,2
+310,Fantastic Sams,Beauty & Spas,Hair Salons,False,11.0,4.0,11,2
+311,Great Clips,Beauty & Spas,Hair Salons,False,28.0,4.0,11,2
+312,Let's Tan,Beauty & Spas,Tanning,False,12.0,4.5,11,2
+313,Paradise Nails & Tan,Beauty & Spas,Eyelash Service,False,20.0,3.5,11,2
+314,Radiance Tanning Salon,Beauty & Spas,Tanning,False,10.0,4.5,11,2
+315,Regis Salon,Beauty & Spas,Hair Salons,False,23.0,4.0,11,2
+316,Revv Illusions,Beauty & Spas,Hair Salons,False,7.0,5.0,11,2
+317,Sport Clips,Beauty & Spas,Barbers,False,23.0,3.5,11,2
+318,Tan Factory,Beauty & Spas,Tanning,False,3.0,1.5,11,2
+319,Village Barber Shop,Beauty & Spas,Barbers,False,80.0,4.0,11,2
+320,Blockbuster Video,Videos & Video Game Rental,"Books, Mags, Music & Video",False,5.0,4.0,11,2
+321,CarMax,Automotive,Car Dealers,False,113.0,3.0,11,2
+322,Ford Country Las Vegas,Automotive,Car Dealers,False,107.0,3.0,11,2
+323,Carpet Sharks,Home Services,Carpet Cleaning,False,22.0,5.0,11,2
+324,Dotty's,Arts & Entertainment,Casinos,False,5.0,3.0,11,2
+325,Gold Rush Casino and Cafe',Arts & Entertainment,Casinos,False,11.0,3.5,11,2
+326,Bangkok Orchid,Thai,Chinese,True,106.0,3.5,11,2
+327,King & I,Thai,Chinese,True,5.0,3.5,11,2
+328,Panda Express,Fast Food,Chinese,True,5.0,3.5,11,2
+329,Wok In Express,American (New),Chinese,False,10.0,3.5,11,2
+330,Ideal Chiropractic,Health & Medical,Chiropractors,False,9.0,5.0,11,2
+331,7-Eleven,Food,Convenience Stores,True,6.0,3.5,11,2
+332,Bath & Body Works,Shopping,Cosmetics & Beauty Supply,False,8.0,3.5,11,2
+333,MAC Cosmetics,Shopping,Cosmetics & Beauty Supply,False,11.0,3.5,11,2
+334,Parisian Day Spa,Skin Care,Day Spas,False,30.0,4.5,11,2
+335,"Carey B Noorda, DDS MSD",Health & Medical,Dentists,False,11.0,4.5,11,2
+336,"David R Jones, DDS",Health & Medical,Dentists,False,3.0,5.0,11,2
+337,Galleria Dental,Health & Medical,Dentists,False,6.0,2.5,11,2
+338,Moore Family Dentistry,Health & Medical,Dentists,False,4.0,5.0,11,2
+339,"Nelson Guy W, DDS",Health & Medical,Dentists,False,3.0,5.0,11,2
+340,Spilsbury Orthodontics,Health & Medical,Dentists,False,6.0,5.0,11,2
+341,Cvs Pharmacy,Shopping,Drugstores,False,5.0,2.0,11,2
+342,Walgreens,Shopping,Drugstores,False,22.0,2.5,11,2
+343,Foothills Cleaners,Local Services,Dry Cleaning & Laundry,False,9.0,2.5,11,2
+344,Village East Cleaners & Alterations,Local Services,Dry Cleaning & Laundry,False,26.0,3.5,11,2
+345,Kiddie Kandids,Photographers,Event Planning & Services,False,3.0,2.0,11,2
+346,Party City,Party Supplies,Event Planning & Services,False,25.0,3.0,11,2
+347,Eye Options,Shopping,Eyewear & Opticians,False,8.0,4.5,11,2
+348,JCPenney,Department Stores,Fashion,False,37.0,3.0,11,2
+349,Motherhood,Shopping,Fashion,False,4.0,4.0,11,2
+350,Walmart Tire Lube Express,Department Stores,Fashion,False,4.0,3.5,11,2
+351,McDonald's,Burgers,Fast Food,True,35.0,3.5,11,2
+352,McDonald's,Burgers,Fast Food,True,33.0,2.0,11,2
+353,Entenmann's Oroweat Bakery Outlet,Food,Bakeries,False,24.0,4.5,11,2
+354,Great Harvest Bread Company,Food,Bakeries,True,49.0,3.5,11,2
+355,See's Candies,Food,Shopping,False,13.0,4.5,11,2
+356,Terrible Herbst,Automotive,Gas & Service Stations,False,9.0,1.0,11,2
+357,Terrible Herbst #159,Automotive,Gas & Service Stations,False,8.0,3.0,11,2
+358,Terrible Herbst Lube,Automotive,Gas & Service Stations,False,21.0,3.5,11,2
+359,Sammy's Woodfired Pizza and Grill,Pizza,Gluten-Free,True,59.0,3.5,11,2
+360,The Legacy Golf Club,Active Life,Golf,False,24.0,3.5,11,2
+361,Wildhorse Golf Club,Active Life,Golf,False,40.0,3.5,11,2
+362,99 Cents Only Stores,Food,Grocery,False,10.0,3.0,11,2
+363,Green Valley Grocery,Food,Grocery,False,3.0,2.5,11,2
+364,Smart & Final,Food,Grocery,False,12.0,4.0,11,2
+365,Vons,Food,Grocery,True,27.0,3.0,11,2
+366,Gabroy James MD,Doctors,Health & Medical,False,7.0,2.5,11,2
+367,Litchfield W Reid MD Face,Doctors,Health & Medical,False,7.0,4.0,11,2
+368,"Michelle M Lewis, DO",Doctors,Health & Medical,False,32.0,4.0,11,2
+369,Prestige Senior Living at Mira Loma,Retirement Homes,Health & Medical,False,5.0,4.0,11,2
+370,Lovesac Galleria,Shopping,Home & Garden,False,5.0,4.0,11,2
+371,Atlas Plumbing,Plumbing,Home Services,False,15.0,4.0,11,2
+372,Baskin Robbins,Food,Ice Cream & Frozen Yogurt,True,21.0,3.5,11,2
+373,Baskin-Robbins,Food,Ice Cream & Frozen Yogurt,True,14.0,4.0,11,2
+374,Dairy Queen,Food,Ice Cream & Frozen Yogurt,False,4.0,1.0,11,2
+375,Fazoli's,Restaurants,Italian,False,28.0,3.0,11,2
+376,Romano's Macaroni Grill,Restaurants,Italian,True,141.0,2.5,11,2
+377,Sushi Bay,Sushi Bars,Japanese,True,153.0,3.5,11,2
+378,Fred Meyer Jewelry Store,Shopping,Jewelry,False,8.0,3.5,11,2
+379,Gordon's Jewelers,Shopping,Jewelry,False,4.0,3.0,11,2
+380,Zales Jewelers,Shopping,Jewelry,False,10.0,3.0,11,2
+381,Winkler Steven MD,Doctors,Medical Centers,False,3.0,5.0,11,2
+382,Chipotle Mexican Grill,Fast Food,Mexican,True,100.0,2.5,11,2
+383,Taco Bell,Fast Food,Mexican,True,15.0,3.0,11,2
+384,GV Christian School,Elementary Schools,Middle Schools & High Schools,False,5.0,4.0,11,2
+385,Diamond Heads,Automotive,Motorcycle Dealers,False,3.0,2.5,11,2
+386,Best Nails,Beauty & Spas,Nail Salons,False,56.0,3.0,11,2
+387,Desert Nails,Beauty & Spas,Nail Salons,False,30.0,2.5,11,2
+388,First Choice Nails,Beauty & Spas,Nail Salons,False,38.0,3.5,11,2
+389,Q Nails,Beauty & Spas,Nail Salons,False,34.0,4.0,11,2
+390,OfficeMax,Shopping,Office Equipment,False,11.0,2.5,11,2
+391,Eyemasters,Shopping,Optometrists,False,3.0,4.0,11,2
+392,Dance Zone,Arts & Entertainment,Performing Arts,False,8.0,4.0,11,2
+393,"Barton H Foutz, DDS",Health & Medical,Periodontists,False,5.0,3.5,11,2
+394,Legacy Animal Hospital,Pet Groomers,Pet Services,False,49.0,4.5,11,2
+395,Buon Gusto Ristorante,Restaurants,Pizza,True,279.0,4.0,11,2
+396,Carmine's,Italian,Pizza,True,54.0,3.0,11,2
+397,Chateau Calais Apartments,Home Services,Real Estate,False,27.0,4.0,11,2
+398,Copper Hills Apartments,Home Services,Real Estate,False,8.0,2.0,11,2
+399,Green Valley Country Club Apartments,Home Services,Real Estate,False,24.0,1.5,11,2
+400,Martinique Bay,Home Services,Real Estate,False,13.0,3.0,11,2
+401,The Equestrian on Eastern,Home Services,Real Estate,False,19.0,3.0,11,2
+402,Ventana Canyon Apartments,Home Services,Real Estate,False,9.0,1.5,11,2
+403,Baja Fresh Mexican Grill,Restaurants,Mexican,True,33.0,2.5,11,2
+404,Cafe Caubo,Restaurants,Mexican,True,3.0,3.5,11,2
+405,Carrabba's Italian Grill,Restaurants,Seafood,True,186.0,3.5,11,2
+406,Cook On Wok,Restaurants,Chinese,True,55.0,3.0,11,2
+407,Jack In the Box,Restaurants,Fast Food,True,4.0,4.0,11,2
+408,Papa John's Pizza,Restaurants,Pizza,True,11.0,2.0,11,2
+409,Pizza Hut,Restaurants,Pizza,True,14.0,3.0,11,2
+410,Ross J's Aloha Grill,Restaurants,Hawaiian,True,373.0,4.0,11,2
+411,Subway,Fast Food,Sandwiches,False,7.0,2.5,11,2
+412,Subway,Fast Food,Sandwiches,True,8.0,3.0,11,2
+413,The UPS Store,Local Services,Shipping Centers,False,4.0,4.0,11,2
+414,The UPS Store,Local Services,Shipping Centers,False,12.0,1.5,11,2
+415,Anthony & Sylvan Pools,Shopping,Hot Tub & Pool,False,14.0,3.5,11,2
+416,Babies R Us,Shopping,Toy Stores,False,22.0,3.5,11,2
+417,Champs Sports,Shopping,Sporting Goods,False,7.0,2.5,11,2
+418,Henderson Restaurant Supply,Shopping,Kitchen & Bath,False,12.0,4.5,11,2
+419,Leslie's Swimming Pool Supplies,Shopping,Hot Tub & Pool,False,4.0,2.0,11,2
+420,Office Depot,Shopping,Computers,False,12.0,3.5,11,2
+421,Payless Shoesource,Shopping,Fashion,False,6.0,3.0,11,2
+422,Tgi Flowers,Shopping,Flowers & Gifts,False,9.0,4.0,11,2
+423,The Body Shop,Shopping,Skin Care,False,8.0,4.5,11,2
+424,Things Remembered,Shopping,Flowers & Gifts,False,6.0,4.0,11,2
+425,Tommy Rockers Southside Grill,American (Traditional),Southern,True,20.0,4.5,11,2
+426,UMC Quick Care - Sunset,Health & Medical,Urgent Care,False,50.0,3.0,11,2
+427,Green Valley Animal Hospital,Pet Services,Veterinarians,False,98.0,4.5,11,2
+428,Pecos Windmill Water Store,Local Services,Water Delivery,False,4.0,5.0,11,2
+429,Sunset Water Store,Food,Water Stores,False,3.0,5.0,11,2
+430,Reliable Tax Services,Financial Services,Accountants,False,3.0,4.5,12,2
+431,Paradise Electro Stimulations,Shopping,Adult,False,4.0,4.5,12,2
+432,The Studio,Shopping,Adult,False,7.0,5.0,12,2
+433,Boomer's Bar,Bars,American (Traditional),False,19.0,3.5,12,2
+434,Omelet House,Breakfast & Brunch,American (Traditional),True,703.0,4.5,12,2
+435,Armstrong Emporium,Shopping,Antiques,False,5.0,3.0,12,2
+436,A-1 Vacuum & Sewing,Local Services,Appliances & Repair,False,10.0,3.0,12,2
+437,Art encounter,Arts & Entertainment,Art Galleries,False,5.0,4.0,12,2
+438,Contemporary Arts Center,Arts & Entertainment,Art Galleries,False,6.0,4.5,12,2
+439,Palace Station Hotel & Casino,Hotels & Travel,Arts & Entertainment,True,526.0,2.5,12,2
+440,Southern Nevada Museum of Fine Art,Museums,Arts & Entertainment,False,4.0,5.0,12,2
+441,Kao Auto Styling,Automotive,Auto Parts & Supplies,False,13.0,4.0,12,2
+442,Charleston Car Wash,Car Wash,Automotive,False,7.0,3.5,12,2
+443,Charlie's Car Repair,Auto Repair,Automotive,False,12.0,4.5,12,2
+444,Desert Inn Auto Repair,Auto Repair,Automotive,False,18.0,2.5,12,2
+445,Jiffy Lube,Oil Change Stations,Automotive,False,32.0,3.5,12,2
+446,Kool Radiator Service,Auto Repair,Automotive,False,6.0,3.5,12,2
+447,Pacific Auto Care,Auto Repair,Automotive,False,4.0,5.0,12,2
+448,Elephant BBQ Restaurant,Korean,Barbeque,True,10.0,4.5,12,2
+449,Shilla Korean BBQ,Korean,Barbeque,True,45.0,3.0,12,2
+450,Hard Hat Lounge,Dive Bars,Bars,False,31.0,3.5,12,2
+451,Huntridge Tavern,Dive Bars,Bars,False,50.0,4.0,12,2
+452,Jack's Pub,Pubs,Bars,False,20.0,2.5,12,2
+453,Moon Doggies,Dive Bars,Bars,False,85.0,4.0,12,2
+454,Beaut Point Hair Studio,Beauty & Spas,Hair Salons,False,21.0,4.5,12,2
+455,Daisy Nail,Beauty & Spas,Waxing,False,13.0,4.0,12,2
+456,Diversity Tattoos,Beauty & Spas,Tattoo,False,20.0,3.5,12,2
+457,Princess Massage,Beauty & Spas,Massage,False,3.0,2.0,12,2
+458,SmartStyle,Beauty & Spas,Hair Salons,False,5.0,4.0,12,2
+459,1-Day Paint & Body Centers,Automotive,Body Shops,False,7.0,2.5,12,2
+460,Dun Rite Auto Body,Automotive,Body Shops,False,6.0,3.0,12,2
+461,Borders Book Shop & Cafe,Videos & Video Game Rental,"Books, Mags, Music & Video",False,6.0,3.5,12,2
+462,Wax Trax Records,Music & DVDs,"Books, Mags, Music & Video",False,55.0,2.5,12,2
+463,Nozomi Japanese Restaurant,Sushi Bars,Buffets,True,54.0,4.0,12,2
+464,KFC,Fast Food,Chicken Wings,True,19.0,1.5,12,2
+465,A & M Chiropractic & Wellness Center,Health & Medical,Chiropractors,False,3.0,4.5,12,2
+466,Gettinger Chiropractic,Health & Medical,Chiropractors,False,3.0,5.0,12,2
+467,Starbucks,Food,Coffee & Tea,True,47.0,3.5,12,2
+468,"Oiga, Mire, Vea Colombian Cuisine",Latin American,Colombian,True,68.0,3.5,12,2
+469,The Gay & Lesbian Community Center of Southern Nevada,Local Services,Community Service/Non-Profit,False,22.0,4.5,12,2
+470,Circle K,Food,Convenience Stores,False,11.0,3.5,12,2
+471,Shiseido,Shopping,Cosmetics & Beauty Supply,False,3.0,4.5,12,2
+472,Law Office of Joseph A. Scalia,Professional Services,Criminal Defense Law,False,3.0,3.5,12,2
+473,Blueberry Hill Family Restaurant,Breakfast & Brunch,Diners,True,333.0,3.5,12,2
+474,Safeway Driving School,Specialty Schools,Driving Schools,False,24.0,3.5,12,2
+475,Rose's Cleaners and Alterations,Local Services,Dry Cleaning & Laundry,False,37.0,4.5,12,2
+476,Sparkle Cleaners & Laundry,Local Services,Dry Cleaning & Laundry,False,15.0,3.5,12,2
+477,Tiffany Couture Cleaners,Local Services,Dry Cleaning & Laundry,False,29.0,4.5,12,2
+478,Mariana's Supermarket,Food,Ethnic Food,True,36.0,3.5,12,2
+479,Econo Lodge,Hotels & Travel,Event Planning & Services,False,13.0,2.0,12,2
+480,El Mirador,Hotels & Travel,Event Planning & Services,False,5.0,1.0,12,2
+481,Charleston Swapmeet,Sporting Goods,Fashion,False,6.0,4.0,12,2
+482,Du Barry Fashions,Women's Clothing,Fashion,False,16.0,4.5,12,2
+483,Target,Department Stores,Fashion,False,25.0,1.5,12,2
+484,Tuesday Morning,Department Stores,Fashion,False,5.0,3.0,12,2
+485,Carl's Jr,Burgers,Fast Food,True,18.0,3.0,12,2
+486,McDonald's,Burgers,Fast Food,True,9.0,2.0,12,2
+487,Mountain America Credit Union,Banks & Credit Unions,Financial Services,False,7.0,3.5,12,2
+488,Bonanza Gift Shop,Gift Shops,Flowers & Gifts,False,141.0,3.0,12,2
+489,T & T Ginseng,Food,Health Markets,False,17.0,3.5,12,2
+490,Regal Upholstery & Drapery Co.,Local Services,Furniture Reupholstery,False,7.0,4.5,12,2
+491,K & B Door Company,Home Services,Garage Door Services,False,6.0,4.5,12,2
+492,Rebel Oil,Automotive,Gas & Service Stations,False,3.0,3.0,12,2
+493,Albertsons,Food,Grocery,False,10.0,2.5,12,2
+494,Habib's Mediterranean Market,Food,Grocery,False,3.0,1.5,12,2
+495,Smart & Final,Food,Grocery,True,13.0,3.5,12,2
+496,24 Hour Fitness,Active Life,Gyms,False,41.0,3.0,12,2
+497,Hair & Nails Zone,Beauty & Spas,Hair Removal,False,22.0,1.5,12,2
+498,Balle & Associates,Endodontists,Health & Medical,False,26.0,4.5,12,2
+499,Guadalupe Medical Center,Medical Centers,Health & Medical,False,5.0,1.0,12,2
+500,Nevada Foot Institute,Doctors,Health & Medical,False,6.0,2.0,12,2
+501,"Rebecca Herrero, MD, FACOG",Doctors,Health & Medical,False,6.0,3.0,12,2
+502,Hi Desert Appliances,Local Services,Home & Garden,False,5.0,4.5,12,2
+503,Hotai Furniture,Shopping,Home & Garden,False,12.0,3.0,12,2
+504,Artistic Iron Works,Shopping,Home Decor,False,46.0,3.5,12,2
+505,Desert Realty,Property Management,Home Services,False,14.0,2.0,12,2
+506,Haagen Dazs,Food,Ice Cream & Frozen Yogurt,False,3.0,3.0,12,2
+507,Luv It Frozen Custard,Food,Ice Cream & Frozen Yogurt,True,585.0,4.0,12,2
+508,Samosa Factory,Vegetarian,Indian,True,151.0,4.0,12,2
+509,M & I International,Shopping,Jewelry,False,46.0,3.5,12,2
+510,The Jewelers of Las Vegas,Shopping,Jewelry,False,33.0,4.5,12,2
+511,Habib's Persian Cuisine,Persian/Iranian,Middle Eastern,True,110.0,3.5,12,2
+512,T-Mobile,Shopping,Mobile Phones,False,9.0,2.5,12,2
+513,Super Nails,Beauty & Spas,Nail Salons,False,12.0,2.5,12,2
+514,US Nail & Spa,Beauty & Spas,Nail Salons,False,22.0,3.5,12,2
+515,Jake's Bar,Bars,Nightlife,False,12.0,4.5,12,2
+516,Spring Mountain Vision,Shopping,Optometrists,False,8.0,4.5,12,2
+517,Ez Pawn,Shopping,Pawn Shops,False,4.0,2.0,12,2
+518,Puppy Love,Pet Groomers,Pet Services,False,5.0,3.5,12,2
+519,Sly Parrot Bird Company,Pets,Pet Stores,False,6.0,5.0,12,2
+520,Veterinary Ophthalmology Service,Veterinarians,Pets,False,10.0,4.5,12,2
+521,Labor Ready,Employment Agencies,Professional Services,False,5.0,2.0,12,2
+522,The Envy Agency,Employment Agencies,Professional Services,False,5.0,1.0,12,2
+523,Icon at 2900,Home Services,Real Estate,False,8.0,1.0,12,2
+524,Sandpiper Apartments,Home Services,Real Estate,False,12.0,2.0,12,2
+525,Timberlake,Home Services,Real Estate,False,11.0,3.0,12,2
+526,Wyandotte Apartments,Home Services,Real Estate,False,7.0,1.5,12,2
+527,Capriotti's Sandwich Shop,Restaurants,Sandwiches,True,271.0,4.0,12,2
+528,Carl's Jr,Restaurants,Fast Food,True,5.0,1.5,12,2
+529,Chapala's Mexican Restaurant,Restaurants,Mexican,True,19.0,3.0,12,2
+530,China Star,Restaurants,Chinese,True,45.0,3.0,12,2
+531,Chinatown Cuisine,Restaurants,Mexican,True,4.0,4.5,12,2
+532,Emperor's Garden,Restaurants,Chinese,True,129.0,2.0,12,2
+533,Food Express Chinese Restaurant,Restaurants,Chinese,True,178.0,4.0,12,2
+534,Ichiza,Restaurants,Japanese,True,1305.0,4.0,12,2
+535,India Oven,Restaurants,Indian,True,130.0,3.5,12,2
+536,Little Caesars Pizza,Restaurants,Pizza,True,4.0,4.0,12,2
+537,Pho So 1,Restaurants,Vietnamese,True,763.0,3.5,12,2
+538,Rice To-Go,Restaurants,Chinese,True,19.0,3.0,12,2
+539,Wienerschnitzel,Restaurants,Fast Food,False,3.0,1.0,12,2
+540,Subway,Fast Food,Sandwiches,True,8.0,2.0,12,2
+541,Habib's Tailoring & Leather Repairs,Local Services,Sewing & Alterations,False,113.0,4.5,12,2
+542,The UPS Store,Local Services,Shipping Centers,False,11.0,4.5,12,2
+543,China China,Shopping,Home & Garden,False,3.0,5.0,12,2
+544,Cigar Box,Shopping,Tobacco Shops,False,3.0,4.5,12,2
+545,Fabric Boutique,Shopping,Arts & Crafts,False,5.0,4.0,12,2
+546,Jewelry City,Shopping,Gold Buyers,False,20.0,4.5,12,2
+547,Macy's Furniture & Home Store,Shopping,Kitchen & Bath,False,34.0,3.0,12,2
+548,Mattress Firm Clearance,Shopping,Mattresses,False,30.0,4.5,12,2
+549,National Survival Store,Shopping,Sporting Goods,False,4.0,3.0,12,2
+550,Nice Twice Hobbies & Sports,Shopping,Hobby Shops,False,6.0,3.5,12,2
+551,Psychic Castles,Shopping,"Books, Mags, Music & Video",False,3.0,4.5,12,2
+552,Red Shoes,Shopping,Fashion,False,15.0,3.0,12,2
+553,Rocky Top Video & Stereo Repair,Shopping,Electronics,False,10.0,5.0,12,2
+554,SuperPawn,Shopping,Electronics,False,6.0,2.5,12,2
+555,The Bead Shack,Shopping,Art Supplies,False,8.0,4.0,12,2
+556,Velvet Underground,Shopping,Comic Books,False,26.0,4.0,12,2
+557,Cesar's Shoe World,Shopping,Fashion,False,3.0,3.5,12,2
+558,It's Paradise Boutique,Shopping,Fashion,False,3.0,3.5,12,2
+559,Smog Busters Repair Center,Automotive,Smog Check Stations,False,3.0,4.0,12,2
+560,A & M Enterprises,Financial Services,Tax Services,False,3.0,2.5,12,2
+561,Gray Line of Las Vegas,Hotels & Travel,Transportation,False,3.0,1.5,12,2
+562,AAA,Hotels & Travel,Travel Services,False,12.0,3.5,12,2
+563,Denny's,Breakfast & Brunch,American (Traditional),True,30.0,2.5,13,2
+564,German-American Social Club of Nevada,German,Arts & Entertainment,False,6.0,4.0,13,2
+565,AutoZone,Automotive,Auto Parts & Supplies,False,8.0,2.5,13,2
+566,Morton's Valero Travel Plaza,Tires,Automotive,False,3.0,3.5,13,2
+567,Cool Cuts 4 Kids,Beauty & Spas,Hair Salons,False,37.0,4.0,13,2
+568,Great Clips,Beauty & Spas,Hair Salons,False,11.0,3.5,13,2
+569,Silver Nugget Bowling Center,Active Life,Bowling,False,11.0,3.5,13,2
+570,Poker Palace,Arts & Entertainment,Casinos,False,16.0,4.0,13,2
+571,KFC,Fast Food,Chicken Wings,True,10.0,1.5,13,2
+572,KFC,Fast Food,Chicken Wings,True,8.0,2.0,13,2
+573,Beauty Supply Warehouse,Shopping,Cosmetics & Beauty Supply,False,6.0,3.0,13,2
+574,Sally Beauty Supply,Shopping,Cosmetics & Beauty Supply,False,11.0,1.5,13,2
+575,Walgreens,Shopping,Drugstores,True,21.0,1.5,13,2
+576,Oasis Cleaners,Local Services,Dry Cleaning & Laundry,False,13.0,4.5,13,2
+577,West Air Aviation,Specialty Schools,Education,False,6.0,4.5,13,2
+578,Big 5 Sporting Goods,Sporting Goods,Fashion,False,9.0,3.5,13,2
+579,Carl's Jr Restaurants,Burgers,Fast Food,True,7.0,2.5,13,2
+580,Galaxy Foam & Upholstery,Local Services,Furniture Reupholstery,False,18.0,5.0,13,2
+581,Pilot Travel Center,Automotive,Gas & Service Stations,False,18.0,3.5,13,2
+582,Bonita Groceries,Food,Grocery,False,3.0,2.0,13,2
+583,La Bonita Grocery Store,Food,Grocery,False,7.0,3.5,13,2
+584,Morris Dexter OD,Optometrists,Health & Medical,False,3.0,3.0,13,2
+585,"Nader Abdelsayed MD, PC",Doctors,Health & Medical,False,4.0,4.5,13,2
+586,Custom Water Refining,Plumbing,Home Services,False,4.0,4.0,13,2
+587,Lippincott Van Lines/Southern Nevada Movers,Shopping,Home Services,False,9.0,2.0,13,2
+588,Rakeman Plumbing,Shopping,Home Services,False,20.0,3.5,13,2
+589,Ace World Wide of Nevada,Movers,Local Services,False,6.0,1.5,13,2
+590,Rainbow Medical Centers,Doctors,Medical Centers,False,5.0,1.5,13,2
+591,Tortas El Rey,Fast Food,Mexican,True,11.0,3.0,13,2
+592,Passion Nails,Beauty & Spas,Nail Salons,False,29.0,3.0,13,2
+593,Sporting Chance Saloon,Bars,Nightlife,False,7.0,3.5,13,2
+594,Domino's Pizza,Sandwiches,Pizza,True,6.0,4.5,13,2
+595,Republic Services of Southern Nevada Recycling Center,Local Services,Recycling Center,False,7.0,2.5,13,2
+596,SA Recycling,Local Services,Recycling Center,False,3.0,1.5,13,2
+597,Jack In the Box,Restaurants,Fast Food,True,12.0,3.0,13,2
+598,Custom Hearth & Door,Shopping,Heating & Air Conditioning/HVAC,False,9.0,4.0,13,2
+599,A Sunrise Towing,Automotive,Towing,False,4.0,1.0,13,2
